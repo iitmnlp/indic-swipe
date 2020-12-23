@@ -45,5 +45,22 @@ Our work on IndicSwipe has been accepted at the 28th International Conference on
 
 This work has been developed by [Emil Biju](https://github.com/emilbiju), [Anirudh Sriram](https://github.com/anirudhs123), [Prof. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/) and [Prof. Pratyush Kumar](https://www.cse.iitm.ac.in/~pratyush/) from the Indian Institute of Technology, Madras. Ask us your questions at [emilbiju7@gmail.com](mailto:emilbiju7@gmail.com) or [anirudhsriram30799@gmail.com](mailto:anirudhsriram30799@gmail.com).
 
+## Citation
+```bash
+@inproceedings{biju-etal-2020-joint,
+    title = "Joint Transformer/{RNN} Architecture for Gesture Typing in Indic Languages",
+    author = "Biju, Emil  and
+      Sriram, Anirudh  and
+      Khapra, Mitesh M.  and
+      Kumar, Pratyush",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.87",
+    pages = "999--1010"}
+```
+
 ## Further Work
 We plan to pursue further work on this front by developing an application that would allow live usage and testing of our models. We also plan on diversifying our dataset and models to support a wider range of Indic languages.
