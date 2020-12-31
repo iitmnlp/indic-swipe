@@ -27,10 +27,6 @@ To support users who prefer to type using an English script keyboard but want th
 
 IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% to 95% across the 7 languages.
 
-<p align="center">
-   <img src="assets/images/gesture_sample.jpg" width=400 height=400>
-</p>
-
 ## Key Contributions
 
 1. A Gesture Path Decoding model that uses a multi-headed Transformer along with LSTM layers for coordinate sequence encoding and a character-level LSTM model for character sequence decoding.
