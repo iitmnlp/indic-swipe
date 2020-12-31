@@ -42,7 +42,9 @@ IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% 
 Our paper on this work titled "Joint Transformer/RNN Architecture for Gesture Typing in Indic Languages" has been accepted as a [conference paper](https://www.aclweb.org/anthology/2020.coling-main.87.pdf) at the 28th International Conference on Compuational Linguistics ([COLING 2020](https://coling2020.org)) held at Barcelona, Spain (Online). You could also refer to our [presentation poster](https://iitmnlp.github.io/indic-swipe/assets/IndicSwipe-Poster.pdf).
 
 <p align="center">
+   <a href="https://emilbiju.github.io/indic-swipe/assets/IndicSwipe-Poster.pdf">
    <embed src="assets/IndicSwipe-Poster.pdf" type="application/pdf" width=800 height=500 />
+   </a>
 </p>
 
 ## People
